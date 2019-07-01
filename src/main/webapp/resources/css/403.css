@@ -1,0 +1,10 @@
+body{
+    background-image: url("/resources/images/error404.jpg");
+    background-size: cover;
+}
+#eror{
+    width: 250px;
+    height: 40px;
+    margin-top:620px;
+    margin-left:400px;
+}
