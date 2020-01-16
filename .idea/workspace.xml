@@ -6,27 +6,209 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aff8a9a7-0dbc-486a-b0bc-3bd3c11f67c8" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
+    <list default="true" id="aff8a9a7-0dbc-486a-b0bc-3bd3c11f67c8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/32e0207f-2a53-4cdb-88cb-7e054a8b540a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/32e0207f-2a53-4cdb-88cb-7e054a8b540a.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/ua/lviv/market/Entity/Author.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/ua/lviv/market/Entity/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/ua/lviv/market/Entity/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/ua/lviv/market/Entity/Purchase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/ua/lviv/market/app/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/ua/lviv/market/controllers/BookController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/ua/lviv/market/controllers/CustomerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/ua/lviv/market/controllers/PurchaseController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/ua/lviv/market/controllers/ServiceController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/ua/lviv/market/dao/AuthorDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/ua/lviv/market/dao/BookDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/ua/lviv/market/dao/CustomerDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/ua/lviv/market/dao/PurchaseDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/ua/lviv/market/dao/implementation/AuthorDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/ua/lviv/market/dao/implementation/BookDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/ua/lviv/market/dao/implementation/CustomerDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/ua/lviv/market/dao/implementation/PurchaseDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/ua/lviv/market/service/AuthorService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/ua/lviv/market/service/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/ua/lviv/market/service/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/ua/lviv/market/service/PurchaseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/ua/lviv/market/service/implementation/AuthorServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/ua/lviv/market/service/implementation/BookServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/ua/lviv/market/service/implementation/CustomerServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/classes/ua/lviv/market/service/implementation/PurchaseServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/HikariCP-2.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/antlr-2.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/aspectjrt-1.8.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/commons-beanutils-1.8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/commons-codec-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/commons-dbcp-1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/commons-digester-2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/commons-httpclient-3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/commons-io-2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/commons-lang3-3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/commons-pool-1.5.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/dom4j-1.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/hibernate-commons-annotations-4.0.5.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/hibernate-core-4.3.10.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/hibernate-entitymanager-4.3.10.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/httpclient-4.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/httpcore-4.4.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/jackson-jaxrs-base-2.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/jandex-1.1.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/javassist-3.18.1-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet-api-3.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-3.1.3.GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-annotations-1.2.0.Beta1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/jcl-over-slf4j-1.7.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/jsp-api-2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.36.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/persistence-api-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/restfb-1.22.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/slf4j-simple-1.7.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.1.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/spring-aspects-4.1.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.1.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.1.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-4.1.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.1.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/spring-data-commons-1.11.1.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/spring-data-jpa-1.9.1.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.1.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.1.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/spring-orm-4.1.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/spring-security-acl-4.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/spring-security-config-4.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/spring-security-core-4.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/spring-security-taglibs-4.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/spring-security-web-4.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.1.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.1.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.1.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/tiles-api-3.0.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/tiles-autotag-core-runtime-1.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/tiles-core-3.0.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/tiles-jsp-3.0.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/tiles-request-api-1.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/tiles-request-jsp-1.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/tiles-request-servlet-1.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/tiles-servlet-3.0.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/tiles-template-3.0.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/lib/xml-apis-1.0.b2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bImages/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bImages/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bImages/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bImages/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bImages/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bImages/670617.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bImages/709684.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bImages/711826.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bImages/fantasy1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bImages/fantasy2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bImages/fantasy3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bImages/fantasy4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bImages/fantasy5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bImages/fantasy6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bImages/roman1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bImages/roman2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bImages/roman3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bImages/roman4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bImages/roman5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bImages/roman6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bImages/roman7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bImages/Богдан Хмельницький.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bImages/Брати Райти.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bImages/Дівчинка у зеленому светрі.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bImages/Майдан.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bannerImages/-15_18_05_КМsite_TOP.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bannerImages/Gaiman_KM_TOP.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bannerImages/Middle_School_КМsite_TOP2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bannerImages/TheFireman_КМsite_TOP.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/bannerImages/ФранцузькийРоман_КМsite_TOP.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/css/403.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/css/addBook.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/css/authorBook.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/css/book.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/css/bookByGenre.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/css/contact.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/css/edit.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/css/home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/css/personalPage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/css/registration.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/images/147802293943073823-Admin-design-on-blue-background-clean-vector-Stock-Vector.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/images/404.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/images/IMG_0737.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/images/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/images/background2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/images/book.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/images/contactus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/images/error404.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/images/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/images/icon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/images/icon2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/images/icon3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/resources/images/regPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/views/403.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/views/addNewBook.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/views/authorBooks.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/views/book.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/views/bookByGenre.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/views/contacts.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/views/editBook.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/views/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/views/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/views/personalPage.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bookMarket-1.0-SNAPSHOT/views/registration.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/market/Entity/Author.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/market/Entity/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/market/Entity/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/market/Entity/Purchase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/market/app/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/market/controllers/BookController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/market/controllers/CustomerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/market/controllers/PurchaseController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/market/controllers/ServiceController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/market/dao/AuthorDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/market/dao/BookDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/market/dao/CustomerDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/market/dao/PurchaseDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/market/dao/implementation/AuthorDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/market/dao/implementation/BookDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/market/dao/implementation/CustomerDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/market/dao/implementation/PurchaseDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/market/service/AuthorService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/market/service/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/market/service/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/market/service/PurchaseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/market/service/implementation/AuthorServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/market/service/implementation/BookServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/market/service/implementation/CustomerServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/market/service/implementation/PurchaseServiceImpl.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/market/Entity/Author.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1105">
-              <caret line="94" selection-start-line="94" selection-end-line="94" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -47,61 +229,14 @@
       <find>book</find>
     </findStrings>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/dao/CustomerDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/dao/implementation/CustomerDaoImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/dao/PurchaseDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/service/PurchaseService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/service/CustomerService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/service/implementation/CustomerServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/controllers/BaseController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/controllers/CustomerController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/dao/implementation/PurchaseDaoImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/service/implementation/PurchaseServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/Entity/Purchase.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/views/403.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/403.css" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/Entity/Customer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/Entity/Book.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/service/AuthorService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/dao/implementation/AuthorDaoImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/dao/AuthorDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/dao/BookDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/service/BookService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/service/implementation/BookServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/service/implementation/AuthorServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/controllers/ServiceController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/contact.css" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/beans.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/bookByGenre.css" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/controllers/AuthorController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/home.css" />
-        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/edit.css" />
-        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/login.css" />
-        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/registration.css" />
-        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/addBook.css" />
-        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/personalPage.css" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/dao/implementation/BookDaoImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/controllers/PurchaseController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/book.css" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/Entity/Author.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/market/controllers/BookController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/views/home.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/views/addNewBook.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/views/bookByGenre.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/views/contacts.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/views/editBook.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/views/login.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/views/personalPage.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/views/registration.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/views/authorBooks.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/authorBook.css" />
-        <option value="$PROJECT_DIR$/src/main/webapp/views/book.jsp" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-      </list>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Study\1 - 4 курси\Programs\BookMarket\.idea" />
+      </set>
     </option>
   </component>
   <component name="LogFilters">
@@ -118,126 +253,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="bookMarket" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1370" />
-    <option name="height" value="744" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="bookMarket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookMarket" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bookMarket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookMarket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bookMarket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookMarket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bookMarket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookMarket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bookMarket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookMarket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="market" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bookMarket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookMarket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="market" type="462c0819:PsiDirectoryNode" />
-              <item name="Entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bookMarket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookMarket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bookMarket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookMarket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bookMarket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookMarket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bookMarket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookMarket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bookMarket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookMarket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bookMarket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookMarket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
+  <component name="ProjectId" id="1WSzTTqRYWDU487JbpMsqG4nSBi" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -551,287 +569,27 @@
       <workItem from="1526742665000" duration="8427000" />
       <workItem from="1526996610923" duration="349000" />
       <workItem from="1560871831540" duration="1045000" />
+      <workItem from="1579157805085" duration="536000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="227750000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4917647" visible="true" weight="0.25642964" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Nl-Palette" order="7" />
-      <window_info id="Web" order="8" sideWeight="0.5082353" side_tool="true" weight="0.24816984" />
-      <window_info id="Persistence" order="9" side_tool="true" />
-      <window_info id="Learn" order="10" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49706313" weight="0.47463176" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50293684" side_tool="true" weight="0.36119872" />
-      <window_info anchor="bottom" id="Java Enterprise" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Application Servers" order="11" weight="0.329653" />
-      <window_info anchor="bottom" id="Spring" order="12" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.329653" />
-      <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Properties" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" weight="0.3293944" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="right" id="CDI" order="10" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4917647" visible="true" weight="0.24816446" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Nl-Palette" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Image Layers" order="6" />
-      <window_info id="Web" order="7" sideWeight="0.5082353" side_tool="true" weight="0.24816984" />
-      <window_info id="Favorites" order="8" side_tool="true" />
-      <window_info id="Persistence" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35962147" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.329653" />
-      <window_info anchor="bottom" id="Java Enterprise" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Application Servers" order="11" weight="0.329653" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.329653" />
-      <window_info anchor="bottom" id="Spring" order="13" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="right" id="Properties" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="right" id="CDI" order="10" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/market/Entity/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-65">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/market/Entity/Purchase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-285">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/market/dao/BookDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/market/dao/CustomerDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/market/dao/PurchaseDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/beans.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/market/dao/implementation/AuthorDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/market/dao/AuthorDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/market/service/AuthorService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/market/service/implementation/AuthorServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-289">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/market/Entity/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/market/Entity/Author.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="94" selection-start-line="94" selection-end-line="94" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <last-edited>BookMarket:war exploded</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Spring (BookMarket)|Spring</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>BookMarket</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
   <component name="mavenExecuteGoalHistory">
     <option value="$PROJECT_DIR$" />
